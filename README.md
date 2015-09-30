@@ -80,6 +80,7 @@ Follow [@womenwhogo_sd](https://twitter.com/womenwhogo_sd) on Twitter to connect
 #### Women Who Go Slack
 
 Request an invite (women only): http://bit.ly/wwg-slack
+
 ---
 
 Special thanks to [Holman](https://github.com/holman/feedback) and [TheChangeLog](https://github.com/thechangelog/ping) for leading the way.
