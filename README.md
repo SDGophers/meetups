@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=CF9S4QZuV30
 
 #### Go in 5 minutes
 
-https://github.com/arschles/go-in-5-minutes#request-a-screencast
+https://github.com/arschles/go-in-5-minutes
 
 #### More
 
