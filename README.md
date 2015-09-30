@@ -19,7 +19,7 @@ We'll answer you as soon as we can get to it.
 
 The San Diego Gophers have two meetups in the area, one Downtown and the other in North County San Diego: http://www.meetup.com/sdgophers/
 
-These meetups were created for everyone who'd love to spend more time with golang and get to know others in the San Diego golang community.  Our plan is to meet at least once a month at a location in San Diego where we'll hack together, perhaps do some talks and, more importantly, make new friends.
+These meetups were created for everyone who'd love to spend more time with golang and get to know others in the San Diego golang community. Our plan is to meet at least once a month at a location in San Diego where we'll hack together on silly code challenges in groups, perhaps do some talks and, more importantly, make new friends. 
 
 #### Slack
 
@@ -30,16 +30,36 @@ Many gophers in the area gather in the #sandiego channel on the Gophers Slack te
 ### New to Go
 
 #### Where to start
-Definitely start here: https://github.com/golang/go/wiki...
+Definitely start here: 
 
-...and here: https://github.com/golang/go/wiki/Articles
+https://github.com/golang/go/wiki#getting-started-with-go
+
+#### Where to get help
+
+https://forum.golangbridge.org/
+
+https://github.com/golang/go/wiki#the-go-community
+
+#### Learn Go in one Video (1 hour)
+
+https://www.youtube.com/watch?v=CF9S4QZuV30
+
+#### Go in 5 minutes
+
+https://github.com/arschles/go-in-5-minutes#request-a-screencast
 
 #### More
+
 https://github.com/golang/go/wiki/Blogs
+
+https://github.com/golang/go/wiki/Articles
 
 https://github.com/golang/go/wiki/Books
 
 https://github.com/golang/go/wiki/GoTalks
+
+https://github.com/golang/go/wiki
+
 
 #### Of note
 Be sure to contribute to those wiki pages when you come across something useful!
@@ -49,7 +69,7 @@ Be sure to contribute to those wiki pages when you come across something useful!
 
 Resources for Women Gophers
 
-#### Meetup.com
+#### SD Women Who Go Meetup.com
 
 An informal network, women only: http://www.meetup.com/sd-women-who-go/
 
@@ -57,6 +77,9 @@ An informal network, women only: http://www.meetup.com/sd-women-who-go/
 
 Follow [@womenwhogo_sd](https://twitter.com/womenwhogo_sd) on Twitter to connect to women gophers in San Diego.
 
+#### Women Who Go Slack
+
+Request an invite (women only): http://bit.ly/wwg-slack
 ---
 
 Special thanks to [Holman](https://github.com/holman/feedback) and [TheChangeLog](https://github.com/thechangelog/ping) for leading the way.
