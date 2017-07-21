@@ -17,13 +17,13 @@ We'll answer you as soon as we can get to it.
 
 #### Meetup.com
 
-The San Diego Gophers have two meetups in the area, one Downtown and the other in North County San Diego: http://www.meetup.com/sdgophers/
+The San Diego Gophers have two meetups in the area, one Downtown and the other in North County San Diego: [http://www.meetup.com/sdgophers/](http://www.meetup.com/sdgophers/)
 
 These meetups were created for everyone who'd love to spend more time with golang and get to know others in the San Diego golang community. Our plan is to meet at least once a month at a location in San Diego where we'll hack together on silly code challenges in groups, perhaps do some talks and, more importantly, make new friends.
 
 #### Slack
 
-Many gophers in the area gather in the #sandiego channel on the Gophers Slack team. For access, click on the invite link: https://gophersinvite.herokuapp.com/.
+Many gophers in the area gather in the #sandiego channel on the Gophers Slack team. For access, click on the invite link: [https://invite.slack.golangbridge.org/](https://invite.slack.golangbridge.org/).
 
 ---
 
